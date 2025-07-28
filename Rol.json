@@ -1,0 +1,10 @@
+{"_id":{"$oid":"67af18b67c8045ea54efc0f1"},"id_film":"67af128f7c8045ea54efc0e0","id_actor":401,"nume_rol":"Thomas"}
+{"_id":{"$oid":"67af18eb7c8045ea54efc0f3"},"id_film":"67af128f7c8045ea54efc0e0","id_actor":402,"nume_rol":"Ephraim"}
+{"_id":{"$oid":"67af19497c8045ea54efc0f7"},"id_film":"67af13837c8045ea54efc0e2","id_actor":401,"nume_rol":"Christian"}
+{"_id":{"$oid":"67af19727c8045ea54efc0f9"},"id_film":"67af13837c8045ea54efc0e2","id_actor":403,"nume_rol":"Yanis"}
+{"_id":{"$oid":"67af19b67c8045ea54efc0fd"},"id_film":"67af145b7c8045ea54efc0e4","id_actor":404,"nume_rol":"Cleopatra"}
+{"_id":{"$oid":"67af19d57c8045ea54efc0ff"},"id_film":"67af145b7c8045ea54efc0e4","id_actor":405,"nume_rol":"Marius"}
+{"_id":{"$oid":"67af1a1d7c8045ea54efc103"},"id_film":"67af14f07c8045ea54efc0e6","id_actor":406,"nume_rol":"Scream Queen"}
+{"_id":{"$oid":"67af1a527c8045ea54efc105"},"id_film":"67af14f07c8045ea54efc0e6","id_actor":407,"nume_rol":"Detective"}
+{"_id":{"$oid":"67af1a9d7c8045ea54efc109"},"id_film":"67af15c17c8045ea54efc0e8","id_actor":408,"nume_rol":"Funny Single Man"}
+{"_id":{"$oid":"67af1ac07c8045ea54efc10b"},"id_film":"67af15c17c8045ea54efc0e8","id_actor":409,"nume_rol":"Sidekick"}
