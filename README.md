@@ -1,3 +1,3 @@
 Acesta este un proiect fromat din 2 părți.<br>
 Main Branch conține un document pdf ce descrie pașii realizați în ordine cronologică și un script necesar vizualizării bazei de date realizată cu SQL și PL/SQL.<br>
-Al doilea branch conține colecțiile realizate în MongpDB, diverse operații precum ordonare, interogări, agregări, realizate cu aceste date. Acestea din urmă sunt prezente în [documentul pdf](/ProiectDB_Filep_Rebeca.pdf).
+Al doilea branch conține colecțiile realizate în MongoDB, diverse operații precum ordonare, interogări, agregări, realizate cu aceste date. Acestea din urmă sunt prezente în [documentul pdf](/ProiectDB_Filep_Rebeca.pdf).
